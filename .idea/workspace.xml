@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a34c47f5-76da-4d0f-83f2-35e21d803ce7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/software_dev/maven/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\software_dev\maven\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c0zdZE3x8VXu9eISwO9yaQv9YR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leyou-manage-web" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.leyou.upload.config" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.leyou.item.service" />
+      <recent name="com.leyou.item.service.GoodsService" />
+      <recent name="com.leyou.item.mapper" />
+      <recent name="com.leyou.upload.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LeyouUploadApplication">
+    <configuration name="FastDFSTest.testUpload" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.upload.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.upload.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.upload.test.FastDFSTest" />
+      <option name="METHOD_NAME" value="testUpload" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastDFSTest.testUploadAndCreateThumb" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="leyou-upload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.upload.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.leyou.upload.test" />
+      <option name="MAIN_CLASS_NAME" value="com.leyou.upload.test.FastDFSTest" />
+      <option name="METHOD_NAME" value="testUploadAndCreateThumb" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="leyou-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leyou.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.LeyouRegistryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeyouUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="leyou-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.leyou.upload.LeyouUploadApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.LeyouRegistryApplication" />
+        <item itemvalue="JUnit.FastDFSTest.testUploadAndCreateThumb" />
+        <item itemvalue="JUnit.FastDFSTest.testUpload" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a34c47f5-76da-4d0f-83f2-35e21d803ce7" name="Default Changelist" comment="" />
+      <created>1589680387045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589680387045</updated>
+      <workItem from="1589680388479" duration="5113000" />
+      <workItem from="1589686587235" duration="2395000" />
+      <workItem from="1589707170966" duration="49000" />
+      <workItem from="1590410490018" duration="3637000" />
+      <workItem from="1590414210127" duration="1867000" />
+      <workItem from="1590467508055" duration="2952000" />
+      <workItem from="1590504114264" duration="2606000" />
+      <workItem from="1590583099445" duration="4888000" />
+      <workItem from="1590626959239" duration="27000" />
+      <workItem from="1590672703397" duration="5610000" />
+      <workItem from="1591101414719" duration="5138000" />
+      <workItem from="1591503844103" duration="1731000" />
+      <workItem from="1591702786269" duration="8350000" />
+      <workItem from="1591880108463" duration="6919000" />
+      <workItem from="1592017428378" duration="1447000" />
+      <workItem from="1592095602717" duration="6256000" />
+      <workItem from="1592877585064" duration="6057000" />
+      <workItem from="1592916770341" duration="5368000" />
+      <workItem from="1592964547909" duration="3580000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Notifications" timestamp="1589680799187">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1589680799187" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1592105043331">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1592105043331" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1592018676480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592018676480" />
+    <state x="223" y="67" width="1150" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592889889513">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" width="1150" height="689" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592889889513" />
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser" timestamp="1592926736125">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="96" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592926736125" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592018809286">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592018809286" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1592095607786">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1592095607786" />
+    <state width="1024" height="208" key="GridCell.Tab.0.bottom" timestamp="1592927632984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592927632984" />
+    <state width="1024" height="208" key="GridCell.Tab.0.center" timestamp="1592927632984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592927632984" />
+    <state width="1024" height="208" key="GridCell.Tab.0.left" timestamp="1592927632984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592927632984" />
+    <state width="1024" height="208" key="GridCell.Tab.0.right" timestamp="1592927632984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592927632984" />
+    <state width="1024" height="208" key="GridCell.Tab.1.bottom" timestamp="1592927632984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592927632984" />
+    <state width="1024" height="208" key="GridCell.Tab.1.center" timestamp="1592927632984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1592927632984" />
+    <state width="1024" height="208" key="GridCell.Tab.1.left" timestamp="1592927632984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1592927632984" />
+    <state width="1024" height="208" key="GridCell.Tab.1.right" timestamp="1592927632984">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="208" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1592927632984" />
+    <state width="1024" height="188" key="GridCell.Tab.2.bottom" timestamp="1591750563662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="188" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591750563662" />
+    <state width="1024" height="188" key="GridCell.Tab.2.center" timestamp="1591750563661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="188" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1591750563661" />
+    <state width="1024" height="188" key="GridCell.Tab.2.left" timestamp="1591750563661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="188" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1591750563661" />
+    <state width="1024" height="188" key="GridCell.Tab.2.right" timestamp="1591750563662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1024" height="188" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1591750563662" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1592975697013">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1592975697013" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1590626962108">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590626962108" />
+    <state x="447" y="150" width="782" height="590" key="find.popup" timestamp="1592965852602">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="150" width="782" height="590" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1592965852602" />
+    <state x="178" y="107" key="new project wizard" timestamp="1591710609850">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1591710609850" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1592927508400">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592927508400" />
+  </component>
+</project>
